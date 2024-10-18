@@ -21,6 +21,7 @@ class Persona:
 
 zeus = Persona('Zeus', '19') 
 
+
 nombre = zeus.nombre
 edad = zeus.edad
 
